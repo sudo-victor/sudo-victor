@@ -10,4 +10,5 @@
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-victor&theme=radical&hide=contribs,prs,issues)
 
 [![followers](https://img.shields.io/github/followers/sudo-victor?label=followers&style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/sudo-victor)
+[![followers](https://img.shields.io/-LinkedIn-FF00FFstyle=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/sudo-victor)
 [![meu perfil rocketseat](https://img.shields.io/badge/-Perfil%20Rocketseat-blueviolet)](https://app.rocketseat.com.br/me/victor-souto)
