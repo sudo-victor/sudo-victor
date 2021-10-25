@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning about NextJS
 - 💬 Ask me about ```[React, React Native, NodeJS]```
 - 😄 Pronouns: Him/His
-- ⚡ Fun fact: ...
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-victor&theme=radical&hide=contribs,prs,issues)
 
