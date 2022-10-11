@@ -1,7 +1,7 @@
 ## Hi there, I'm Victor Soares 👋
 
 
-- 🔭 I’m currently working at Loja Interativa as Software Developer
+- 🔭 I’m currently working at MKS Softwares
 - 🌱 I’m currently learning about NextJS
 - 💬 Ask me about ```[React, React Native, NodeJS]```
 - 😄 Pronouns: Him/His
