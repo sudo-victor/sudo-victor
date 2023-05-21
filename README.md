@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Devnology**
 
-- 🌱 I’m currently learning **Microservices, Architecture and Web3.0**
+- 🌱 I’m currently learning **Microservices, Architecture and Tests**
 
 - 👨‍💻 All of my projects are available at [victorsouto.com.br](https://victorsouto.com.br)
 
