@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor Souto</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **In8**
-
 - 🌱 I’m currently learning **Microservices, Architecture and Tests**
 
 - 👨‍💻 All of my projects are available at [victorsouto.com.br](https://victorsouto.com.br)
