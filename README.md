@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Microservices, Architecture and Tests**
 
-- 👨‍💻 All of my projects are available at [victorsouto.com.br](https://victorsouto.com.br)
-
-- 💬 Ask me about **NextJS, NestJS and Tests**
+- 💬 Ask me about **Javascript, NodeJS, Architecture, System Design and Tests**
 
 - 📫 How to reach me **contato@victorsouto.com.br**
 
